@@ -1,3 +1,10 @@
 body {
   background: black;
+  color: white;
+}
+.box {
+  background: #ff0000;
+  border: 2px solid greenyellow;
+  padding: 15px 0px;
+  margin
 }
